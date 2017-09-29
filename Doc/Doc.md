@@ -12,7 +12,7 @@ Comment créer des liens:
 3. Titre URL
 
   + input:
-  \[Google Home Page](https://www.google.com "Google's Homepage")
+  \[Google Home Page](https://www.google.com)
 
     sans espace entre "]" et "("
 
@@ -47,4 +47,23 @@ Comment créer des liens:
   + Resultat:
   **vraiment**
 
-  
+### insérer du code
+
+1. Code pure
+
+  + input: insérer code entre \`\`  exemple :  \``<script type="text/javascript">
+  alert("Hello!");
+</script>`\`
+
+  + Resultat: `<script type="text/javascript">
+  alert("Hello!");
+</script>`
+
+### insérer image
+
+  + Input: \![image test]\(samuel-zeller-360588.jpg) ==> titre de l'image plus la location de l'image sur le serveur/oridnateur
+
+  + Resultat
+![image test](samuel-zeller-360588.jpg)
+
+![gif](giphy.mp4)
