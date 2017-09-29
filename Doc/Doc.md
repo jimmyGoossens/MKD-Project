@@ -66,4 +66,7 @@ Comment créer des liens:
   + Resultat
 ![image test](samuel-zeller-360588.jpg)
 
-![gif](giphy.mp4)
+
+## That's it my friends
+
+![gif](https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif)
