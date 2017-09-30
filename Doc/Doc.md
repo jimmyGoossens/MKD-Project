@@ -58,7 +58,7 @@ Bloc de code:
 
 Votre code sera encadré des balises < pre> < code> et refermé par ces mêmes balises < /pre> < /code>.
 
- Votre bloc de code 
+ Votre bloc de code
 
 Ce qui rend la lecture plus aisée, on sait directement ce qu'il en est. Les chevrons < > dans votre code deviennent alors & lt; code & gt; (sans espace)
 
@@ -68,9 +68,9 @@ Les lignes horizontales :
 
 Pour faire une < hr /> Vous pouvez insérez 3 (et plus) astérix ou tirets
 
-*** 
+***
 
-* * * * 
+* * * *
 
 - - -
 
@@ -144,6 +144,8 @@ Comment créer des liens:
   + Resultat:
   **vraiment**
 
+##Github Markdown
+
 ### insérer du code
 
 1. Code pure
@@ -155,6 +157,55 @@ Comment créer des liens:
   + Resultat: `<script type="text/javascript">
   alert("Hello!");
 </script>`
+
+2. Code Colorisé (Github Flavored Markdown)
+
+  + input:
+  \```javascript
+alert("Hello!");
+```
+
+  + Resultat:
+  ```javascript
+  alert("Hello!");
+  ```
+### Créer une liste de tâche
+
+une liste de tâche peut être crée telle une liste en prenant comme "balise" les éléments - [ ] et - [X] à l'instar du + ou - d'une liste basic
+
+    - [X] Elément terminé
+    - [ ] Elément non terminé
+
+
+
+
+
+### Créer une table
+
+une table est initialisée en créant la  première ligne de la table comme ceci
+
+    First Header | Second Header
+    ------------ | -------------
+
+Puis pour chaque ligne suivante, les cellules devront être séparée d'un | comme ceci
+
+    Content from cell 1 | Content from cell 2
+
+résultat:
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+
+### mentionner un autre utilisateur
+
+pour mentionner un autre utilisateur sur un github Markdown, il suffit d'insérer un \@Nom_du_user
+
+    exemple: @ValerianThomas
+
+
+
+
 
 ### insérer image
 
