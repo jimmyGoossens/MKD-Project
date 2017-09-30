@@ -222,6 +222,6 @@ ET... Ca ne fonctionne pas...
 ![image test](samuel-zeller-360588.jpg)
 
 
-## That's it my friends
+## C'est tout les amis
 
 ![gif](https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif)
