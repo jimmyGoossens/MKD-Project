@@ -109,12 +109,12 @@ Comment créer des liens:
 3. Titre URL
 
   + input:
-  \[Google Home Page](https://www.google.com)
+  [Google Home Page](https://www.google.com)
 
     sans espace entre "]" et "("
 
   + Resultat:
-   [Google Home Page](https://www.google.com "Google's Homepage")
+   [Google Home Page](https://www.google.com)
 
 3. Lien Local
 
@@ -144,7 +144,7 @@ Comment créer des liens:
   + Resultat:
   **vraiment**
 
-##Github Markdown
+## Github Markdown
 
 ### insérer du code
 
@@ -203,7 +203,14 @@ pour mentionner un autre utilisateur sur un github Markdown, il suffit d'insére
 
     exemple: @ValerianThomas
 
+### Barrer du text
 
+pour barrer du texte, insérez \~\~ ~~ autour de votre texte
+
+    input: \~\~Hello~~
+    resulat: ~~Hello~~
+
+ET... Ca ne fonctionne pas...
 
 
 
