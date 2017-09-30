@@ -225,3 +225,11 @@ ET... Ca ne fonctionne pas...
 ## C'est tout les amis
 
 ![gif](https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif)
+***
+#### Référence
+
++ [GitHubMarkDown](https://guides.github.com/features/mastering-markdown/)
+
++ [DevDocMarkDown](http://devdocs.io/markdown/)
+
++ [Adam-p markdown Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
