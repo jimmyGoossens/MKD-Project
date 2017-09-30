@@ -114,7 +114,7 @@ Comment créer des liens:
     sans espace entre "]" et "("
 
   + Resultat:
-   [Google Home Page](https://www.google.com "Google's Homepage")
+   [Google Home Page](https://www.google.com)
 
 3. Lien Local
 
