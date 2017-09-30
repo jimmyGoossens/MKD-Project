@@ -144,7 +144,7 @@ Comment créer des liens:
   + Resultat:
   **vraiment**
 
-##Github Markdown
+## Github Markdown
 
 ### insérer du code
 
@@ -215,6 +215,6 @@ pour mentionner un autre utilisateur sur un github Markdown, il suffit d'insére
 ![image test](samuel-zeller-360588.jpg)
 
 
-## That's it my friends
+## C'est tout les amis
 
 ![gif](https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif)
