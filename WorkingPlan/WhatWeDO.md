@@ -3,4 +3,4 @@
 + histoire                    :X%
 + implémentations             :50%
 + conclusion                  :0%
-+ fichier doc                 :X%
++ fichier doc                 :100%
