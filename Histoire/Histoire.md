@@ -1,3 +1,4 @@
+
 # Historique
 ## Origine :
 ### John Gruber crée le Markdown en 2004 en collaboration avec Aaron Swartz, dans l'idée de créer une syntaxe  facile à écrire et à lire que l'on pourrait éventuellement , convertir aisément en une version HTML5 valide.
@@ -32,4 +33,7 @@ Ci-dessous sont reprises quelques implémentation notables :
 
 -Marckdown Extra : est un Markup Language léger basé sur Marckdown et implémenter en PHP, Python et Ruby. Il ajoute des fonctionnalité non disponnible dans la syntax du Marckdown et est également supporté par des cms comme par exemple Drupal
 
-  
+  ***
+  + [Documentation](https://github.com/jimmyGoossens/MKD-Project/blob/master/Doc/Doc.md)
+  + [Histoire](https://github.com/jimmyGoossens/MKD-Project/blob/master/Histoire/Histoire.md)
+  + [README du repository](https://github.com/jimmyGoossens/MKD-Project/blob/master/README.md)
