@@ -4,7 +4,7 @@
 
 + Syl Alonsious/ Git: [slylnss]( https://github.com/slylnss)
 
-+ Ornella Simba/ Git: [ ]
++ Ornella Simba/ Git: [OrnellaSimba](https://github.com/OrnellaSimba)
 + Valerian Thomas/ Git: [ValerianThomas]( https://github.com/ValerianThomas)
 
 
