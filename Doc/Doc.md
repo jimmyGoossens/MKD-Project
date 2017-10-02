@@ -233,3 +233,9 @@ ET... Ca ne fonctionne pas...
 + [DevDocMarkDown](http://devdocs.io/markdown/)
 
 + [Adam-p markdown Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+***
++ [Documentation](https://github.com/jimmyGoossens/MKD-Project/blob/master/Doc/Doc.md)
++ [Histoire](https://github.com/jimmyGoossens/MKD-Project/blob/master/Histoire/Histoire.md)
++ [README du repository](https://github.com/jimmyGoossens/MKD-Project/blob/master/README.md)
+
